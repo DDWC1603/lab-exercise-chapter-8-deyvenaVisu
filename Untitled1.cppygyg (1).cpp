@@ -6,7 +6,7 @@ class Log
 public:
 	const int LogLevelError=0;
 	const int LogLevelwarning=1;
-	const int LogLevelInfo=2;
+	const int LogLevelInfo=3;
 	
 private:
 	
